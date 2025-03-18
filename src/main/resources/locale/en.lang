@@ -1,0 +1,17 @@
+[object]
+copper_forge=Copper Forge
+iron_forge=Iron Forge
+gold_forge=Gold Forge
+demonic_forge=Demonic Forge
+quartz_forge=Quartz Forge
+tungsten_forge=Tungsten Forge
+nightsteel_forge=Nightsteel Forge
+
+[itemtooltip]
+copper_forge_bonus=Fuel Cost -2%, Speed +10%
+iron_forge_bonus=Fuel Cost -4%, Speed +20%
+gold_forge_bonus=Fuel Cost -6%, Speed +30%
+demonic_forge_bonus=Fuel Cost -8%, Speed +40%, Slots +1
+quartz_forge_bonus=Fuel Cost -10%, Speed +50%, Slots +1
+tungsten_forge_bonus=Fuel Cost -12%, Speed +60%, Slots +1
+nightsteel_forge_bonus=Fuel Cost -14%, Speed +70%, Slots +2
